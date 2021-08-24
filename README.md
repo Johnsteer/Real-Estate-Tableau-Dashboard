@@ -1,5 +1,3 @@
-Tableau Dashboarding Project
-
 ## Description
 
 Put together to gain some experience and get some familiarity with using Tableau Desktop to build out interactive analytical dashboards. 
